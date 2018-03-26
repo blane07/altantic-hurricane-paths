@@ -1,2 +1,3 @@
-# altantic-hurricane-paths
-Hurricane path predictor
+# Hurricane Landfall Predictor
+
+(On hold) Currently hunting for new exoplanets
