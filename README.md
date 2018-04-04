@@ -1,3 +1,5 @@
 # Hurricane Landfall Predictor
 
-(On hold) Currently hunting for new exoplanets
+hurricanes-2017.csv
+* Hurricane Irma
+* Hurricane Harvey
