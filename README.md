@@ -57,6 +57,6 @@ We divided the East Coast into different impact areas. A model (random forest cl
 With accuracy, the models performed at or barely above baseline. However, due to the imbalanced classes (hurricanes strike an area about 10% of the time), the F1 scored was used to evaluate the models with results ranging from 33% to 55%.
 
 ### Next Season
-Looking at previous years, we were able to forecast next year's hurricane energy with an R squared value of 50.2%
+Looking at previous years, we were able to forecast the difference in next year's hurricane energy with an R squared value of 50.2%
 ![Energy](https://github.com/blane07/altantic-hurricane-paths/blob/master/images/time_series.png)
 
